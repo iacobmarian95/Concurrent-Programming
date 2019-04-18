@@ -1,0 +1,7 @@
+*.user
+ipch
+*sdf
+
+*.suo
+Debug
+Release
