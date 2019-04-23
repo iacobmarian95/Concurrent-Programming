@@ -1,4 +1,4 @@
-#                       Controlling an DC Motor using a Finite State Machine model. 
+##                       Controlling an DC Motor using a Finite State Machine model. 
 After defining the Finite State Machine model, I implemented a thread safe system for handling different events via 3 provided functions to the user: SpeedUp, SpeedDown and Stop.
 
 To make it thread safe I followed one rule: once an event is generated and the system is in the process to make a transition from one 
